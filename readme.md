@@ -20,7 +20,7 @@ Public tutorials of using [Flow Forecast, the original deep learning for time se
 
 [DA-RNN on COVID-19 + Mobility Data](https://github.com/AIStream-Peelout/flow_tutorials/blob/master/covid/DA_Training_COVID.ipynb)
 
-[DA-RNN+ COVID Vaccionation](https://github.com/AIStream-Peelout/flow_tutorials/blob/master/covid/DA_RNN_COVID_VAX.ipynb)
+[DA-RNN+ COVID Vaccination](https://github.com/AIStream-Peelout/flow_tutorials/blob/master/covid/DA_RNN_COVID_VAX.ipynb)
 
 [Decoder-Transformer + MASE Loss function](https://github.com/AIStream-Peelout/flow_tutorials/blob/master/covid/MASE_COVID_Abbriv.ipynb)
 
