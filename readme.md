@@ -14,7 +14,7 @@ Public tutorials of using [Flow Forecast, the original deep learning for time se
 
 [Decoder Transformer Virgin](https://github.com/AIStream-Peelout/flow_tutorials/blob/master/river/Decoder_Transformer_Virgin.ipynb)
 
-[]()
+[Anomaly Detection Virgin]()
 
 ### COVID-19 Notebooks 
 
@@ -24,6 +24,10 @@ Public tutorials of using [Flow Forecast, the original deep learning for time se
 
 [Decoder-Transformer + MASE Loss function](https://github.com/AIStream-Peelout/flow_tutorials/blob/master/covid/MASE_COVID_Abbriv.ipynb)
 
+[Anomaly Detection Virgin](Anomaly_Detection_Flow_2.ipynb)
+
 
 ### Other
 
+### Crypto-Forecasting
+[Crypto Prices Forecasting with Informer](https://www.kaggle.com/code/isaacmg/forecasting-crypto-prices-with-the-informer)
