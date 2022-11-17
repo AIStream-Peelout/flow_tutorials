@@ -24,7 +24,7 @@ Public tutorials of using [Flow Forecast, the original deep learning for time se
 
 [Decoder-Transformer + MASE Loss function](https://github.com/AIStream-Peelout/flow_tutorials/blob/master/covid/MASE_COVID_Abbriv.ipynb)
 
-[Anomaly Detection Virgin](https://github.com/AIStream-Peelout/flow_tutorials//Anomaly_Detection_Flow_2.ipynb)
+[Anomaly Detection Virgin](https://github.com/AIStream-Peelout/flow_tutorials/Anomaly_Detection_Flow_2.ipynb)
 
 
 ### Other
