@@ -31,3 +31,10 @@ Public tutorials of using [Flow Forecast, the original deep learning for time se
 
 ### Crypto-Forecasting
 [Crypto Prices Forecasting with Informer](https://www.kaggle.com/code/isaacmg/forecasting-crypto-prices-with-the-informer)
+
+### Avocado Price Forecasting
+[DA-RNN](https://www.kaggle.com/code/isaacmg/avocado-price-forecasting-with-flow-forecast-ff)
+
+[Probablistic GRU](https://www.kaggle.com/code/isaacmg/probablistic-gru-avocado-price-forecast)
+
+[]
