@@ -37,4 +37,4 @@ Public tutorials of using [Flow Forecast, the original deep learning for time se
 
 [Probablistic GRU](https://www.kaggle.com/code/isaacmg/probablistic-gru-avocado-price-forecast)
 
-[]
+[Multi-Region Transformer](https://www.kaggle.com/code/isaacmg/multi-region-transformer)
