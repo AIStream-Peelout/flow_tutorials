@@ -15,7 +15,7 @@ Public tutorials of using [Flow Forecast, the original deep learning for time se
 
 [Big Black River Forecast Informer](https://www.kaggle.com/code/isaacmg/pytorch-time-series-forecasting-with-the-informer)
 
-[I-Transformer]
+[I-Transformer](https://www.kaggle.com/code/isaacmg/fork-of-i-transformer-v
 
 [Decoder Transformer Virgin](https://github.com/AIStream-Peelout/flow_tutorials/blob/master/river/Decoder_Transformer_Virgin.ipynb)
 
